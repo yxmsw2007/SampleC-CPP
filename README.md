@@ -9,3 +9,7 @@ folder: Sample_File
 ## Socket - C
 
 folder: Sample_Socket
+
+## Thread - C
+
+folder: Sample_Thread
