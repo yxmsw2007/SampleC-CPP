@@ -1,3 +1,10 @@
+/**********************************************************
+ * Author        : yxmsw2007
+ * Email         : yxmsw2007@gmail.com
+ * Last modified : 2015-05-24 23:19
+ * Filename      : fgets_fputs.c
+ * Description   : 
+ * *******************************************************/
 #include <stdio.h>
 #include <string.h>
 

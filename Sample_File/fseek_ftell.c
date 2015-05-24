@@ -1,3 +1,10 @@
+/**********************************************************
+ * Author        : yxmsw2007
+ * Email         : yxmsw2007@gmail.com
+ * Last modified : 2015-05-24 23:20
+ * Filename      : fseek_ftell.c
+ * Description   : 
+ * *******************************************************/
 #include <stdio.h>
 
 int main(int argc, char* argv[]) {
