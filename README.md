@@ -21,3 +21,19 @@ folder: UDP
 ## Thread - C
 
 folder: Sample_Thread
+
+## C Design Pattern
+
+folder: Sample_Design_Pattern_C
+
+### Feature
+
+folder: Basic
+
+### Factory
+
+folder: Factory
+
+### Singleton
+
+folder: Singleton
