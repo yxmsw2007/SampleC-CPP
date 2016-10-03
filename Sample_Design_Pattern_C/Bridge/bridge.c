@@ -18,10 +18,10 @@ void buy_dumpling(DumplingRequest* pDumplingRequest)
 {
     assert(NULL != pDumplingRequest);
     if (MEAT_TYPE == pDumplingRequest->type) {
-        return (MeatDumpling*)(pDumplingRequest->pDumpling)->make();
+        (MeatDumpling*)(pDumplingRequest->pDumpling)->make();
     }
     else
     {
-        return (NormalDumpling*)(pDumplingRequest->pDumpling)->make();
+        (NormalDumpling*)(pDumplingRequest->pDumpling)->make();
     }
 }

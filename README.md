@@ -30,10 +30,90 @@ folder: Sample_Design_Pattern_C
 
 folder: Basic
 
+### Adapter
+
+folder: Adapter
+
+### Bridge
+
+folder: Bridge
+
+### Builder
+
+folder: Builder
+
+### Chain Of Responsibility
+
+folder: ChainOfResponsibility
+
+### Command
+
+folder: Command
+
+### Composite
+
+folder: Composite
+
+### Decorate
+
+folder: Decorate
+
+### Facade
+
+folder: Facade
+
 ### Factory
 
 folder: Factory
 
+### Flyweight
+
+folder: Flyweight
+
+### Interpreter
+
+folder: Interpreter
+
+### Iterator
+
+folder: Iterator
+
+### Mediator
+
+folder: Mediator
+
+### Memento
+
+folder: Memento
+
+### Observer
+
+folder: Observer
+
+### Prototype
+
+folder: Prototype
+
+### Proxy
+
+folder: Proxy
+
 ### Singleton
 
 folder: Singleton
+
+### State
+
+folder: State
+
+### Strategy
+
+folder: Strategy
+
+### Template
+
+folder: Template
+
+### Visitor
+
+folder: Visitor
